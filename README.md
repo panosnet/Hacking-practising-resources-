@@ -1,5 +1,5 @@
 # Hacking-practising-and-learning-resources-
-Resources that I found very interesting for practicing
+Resources that I found very interesting for practicing and learning
 
 https://www.root-me.org/ <br>
 https://www.hacker101.com/ <br>
