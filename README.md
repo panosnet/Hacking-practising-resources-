@@ -1,4 +1,4 @@
-# Hacking-practising-and-learning-resources-
+# Hacking-practicing-and-learning-resources-
 Resources that I found very interesting for practicing and learning
 
 https://www.root-me.org/ <br>
