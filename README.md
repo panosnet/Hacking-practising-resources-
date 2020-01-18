@@ -9,17 +9,24 @@ https://www.hackthissite.org/ <br>
 https://www.hackthebox.eu/ <br>
 https://www.vulnhub.com/ <br>
 
-
 Links and Cheatsheets<br>
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ <br>
-
 
 Forums<br>
 https://hackforums.net/ <br>
 
-
 Interesting<br>
-https://0x00sec.org/
+https://0x00sec.org/<br>
+http://www.fuzzysecurity.com/tutorials.html<br>
+https://www.digitalocean.com/community/tutorials/how-to-use-port-knocking-to-hide-your-ssh-daemon-from-attackers-on-ubuntu<br>
+http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html<br>
+https://nutcrackerssecurity.github.io/PE-file.html<br>
+https://github.com/nahamsec/bbht - bug bounty tool collection <br>
+https://github.com/threatexpress/red-team-scripts - red team scripts <br>
+https://delta.navisec.io/osint-for-pentesters-part-1-passive-recon-and-asset-discovery/ a pen testers guide<br>
+https://0x00sec.org/t/tricks-of-the-trade-from-5-years-in-offensive-cyber-security/15794<br>
+https://pry0.cc/ <br>
+https://pentesterlab.com/bootcamp <br>
 
 PWK - OSCP resources<br>
 https://github.com/Optixal/OSCP-PWK-Notes-Public <br>
