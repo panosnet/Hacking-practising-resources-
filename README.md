@@ -38,6 +38,7 @@ https://github.com/Optixal/OSCP-PWK-Notes-Public <br>
 https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms <br>
 https://werdinfosec.com/2019/09/24/pwk-oscp-review <br>
 https://github.com/so87/OSCP-PwK <br>
+https://github.com/gh0x0st/OSCP-A-Step-Forward<br>
 
 Reverse Engineering<br>
 https://0xdarkvortex.dev/index.php/2018/04/09/ground-zero-part-1-reverse-engineering-basics/<br>
