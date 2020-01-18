@@ -12,6 +12,9 @@ https://github.com/ethicalhack3r/DVWA <br>
 
 Links and Cheatsheets<br>
 https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ <br>
+https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/<br>
+https://securityonline.info/aircrack-ng-cheatsheet/<br>
+
 
 Forums<br>
 https://hackforums.net/ <br>
@@ -28,6 +31,7 @@ https://delta.navisec.io/osint-for-pentesters-part-1-passive-recon-and-asset-dis
 https://0x00sec.org/t/tricks-of-the-trade-from-5-years-in-offensive-cyber-security/15794<br>
 https://pry0.cc/ <br>
 https://pentesterlab.com/bootcamp <br>
+https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes<br>
 
 PWK - OSCP resources<br>
 https://github.com/Optixal/OSCP-PWK-Notes-Public <br>
