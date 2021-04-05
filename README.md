@@ -33,6 +33,10 @@ https://0x00sec.org/t/tricks-of-the-trade-from-5-years-in-offensive-cyber-securi
 https://pry0.cc/ <br>
 https://pentesterlab.com/bootcamp <br>
 https://github.com/Kan1shka9/Wireless-LAN-Security-Megaprimer-Notes<br>
+https://github.com/r00t-3xp10it?tab=repositories<br>
+https://github.com/r00t-3xp10it/RedTeam-Tactics-and-Techniques<br>
+https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques<br>
+https://github.com/vulnersCom<br>
 
 PWK - OSCP resources<br>
 https://github.com/Optixal/OSCP-PWK-Notes-Public <br>
