@@ -20,6 +20,10 @@ https://www.ired.team/offensive-security-experiments/offensive-security-cheetshe
 Forums<br>
 https://hackforums.net/ <br>
 
+Priviledge escalation<br>
+https://github.com/frizb/Linux-Privilege-Escalation<br>
+https://jieliau.medium.com/privilege-escalation-on-linux-platform-8b3fbd0b1dd4<br>
+
 Interesting<br>
 https://0x00sec.org/<br>
 http://www.fuzzysecurity.com/tutorials.html<br>
@@ -37,6 +41,7 @@ https://github.com/r00t-3xp10it?tab=repositories<br>
 https://github.com/r00t-3xp10it/RedTeam-Tactics-and-Techniques<br>
 https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques<br>
 https://github.com/vulnersCom<br>
+https://sevenlayers.com/index.php/179-wordpress-plugin-reverse-shell
 
 PWK - OSCP resources<br>
 https://github.com/Optixal/OSCP-PWK-Notes-Public <br>
@@ -44,6 +49,20 @@ https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms <br>
 https://werdinfosec.com/2019/09/24/pwk-oscp-review <br>
 https://github.com/so87/OSCP-PwK <br>
 https://github.com/gh0x0st/OSCP-A-Step-Forward<br>
+https://sushant747.gitbooks.io/total-oscp-guide/content/<br>
 
 Reverse Engineering<br>
 https://0xdarkvortex.dev/index.php/2018/04/09/ground-zero-part-1-reverse-engineering-basics/<br>
+
+File upload
+https://gobiasinfosec.blog/2019/12/24/file-upload-attacks-php-reverse-shell/
+
+Spawn TTY<br>
+https://netsec.ws/?p=337<br>
+
+GTFOBINS<br>
+https://gtfobins.github.io/<br>
+
+Tools<br>
+https://github.com/D35m0nd142/LFISuite
+
