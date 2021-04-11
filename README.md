@@ -23,6 +23,7 @@ https://hackforums.net/ <br>
 Priviledge escalation<br>
 https://github.com/frizb/Linux-Privilege-Escalation<br>
 https://jieliau.medium.com/privilege-escalation-on-linux-platform-8b3fbd0b1dd4<br>
+https://guif.re/linuxeop<br>
 
 Interesting<br>
 https://0x00sec.org/<br>
