@@ -66,8 +66,10 @@ https://gtfobins.github.io/<br>
 
 Tools<br>
 https://github.com/D35m0nd142/LFISuite
-https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA  IppSec 
-https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ VbScrub	 
-https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg STÖK	 
-https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w LiveOverflow	 
+
+Youtube channels<br>
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA  IppSec <br>
+https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ VbScrub	 <br>
+https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg STÖK	 <br>
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w LiveOverflow	 <br>
 
