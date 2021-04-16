@@ -16,6 +16,8 @@ https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/<br>
 https://securityonline.info/aircrack-ng-cheatsheet/<br>
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets<br>
 
+Learning
+https://www.imperva.com/learn/  
 
 Forums<br>
 https://hackforums.net/ <br>
