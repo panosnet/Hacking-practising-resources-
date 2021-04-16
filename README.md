@@ -15,9 +15,7 @@ https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ <br>
 https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/<br>
 https://securityonline.info/aircrack-ng-cheatsheet/<br>
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets<br>
-
-Learning
-https://www.imperva.com/learn/  
+ 
 
 Forums<br>
 https://hackforums.net/ <br>
@@ -57,8 +55,8 @@ https://sushant747.gitbooks.io/total-oscp-guide/content/<br>
 Reverse Engineering<br>
 https://0xdarkvortex.dev/index.php/2018/04/09/ground-zero-part-1-reverse-engineering-basics/<br>
 
-File upload
-https://gobiasinfosec.blog/2019/12/24/file-upload-attacks-php-reverse-shell/
+File upload<br>
+https://gobiasinfosec.blog/2019/12/24/file-upload-attacks-php-reverse-shell/<br>
 
 Spawn TTY<br>
 https://netsec.ws/?p=337<br>
@@ -67,8 +65,8 @@ GTFOBINS<br>
 https://gtfobins.github.io/<br>
 
 Tools<br>
-https://github.com/D35m0nd142/LFISuite
-
+https://github.com/D35m0nd142/LFISuite<br>
+<br>
 Youtube channels<br>
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA  IppSec <br>
 https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ VbScrub	 <br>
